@@ -1,5 +1,5 @@
 # hello-world
-I am getting know the Gethub
+I am getting know the Github
 
 
 Step 3. Make and commit changes
